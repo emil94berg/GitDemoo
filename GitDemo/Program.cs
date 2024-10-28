@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hejsan, världen! :) ");
+            Helpers.MyLoop();
         }
     }
 }
